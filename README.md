@@ -1,2 +1,3 @@
 # def-demo-first
-this id my first git application
+this is my first git application
+Auther: b joshi
